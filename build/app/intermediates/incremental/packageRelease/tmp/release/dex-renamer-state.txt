@@ -1,0 +1,4 @@
+#Tue Apr 18 02:06:32 TRT 2023
+base.0=D\:\\PROJECTS\\Flutter\\limona\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

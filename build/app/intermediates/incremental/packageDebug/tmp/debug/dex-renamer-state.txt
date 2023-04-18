@@ -1,0 +1,4 @@
+#Tue Apr 18 01:27:59 TRT 2023
+base.0=D\:\\PROJECTS\\Flutter\\limona\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
