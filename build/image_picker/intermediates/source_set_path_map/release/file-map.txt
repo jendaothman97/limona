@@ -1,0 +1,13 @@
+io.flutter.plugins.imagepicker.image_picker-jetified-window-java-1.0.0-beta04-0 C:\Users\AS\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.imagepicker.image_picker-core-1.6.0-1 C:\Users\AS\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+io.flutter.plugins.imagepicker.image_picker-jetified-annotation-experimental-1.1.0-2 C:\Users\AS\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.imagepicker.image_picker-jetified-window-1.0.0-beta04-3 C:\Users\AS\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.imagepicker.image_picker-main-4 C:\Users\AS\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-0.7.5+4\android\src\main\res
+io.flutter.plugins.imagepicker.image_picker-release-5 C:\Users\AS\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-0.7.5+4\android\src\release\res
+io.flutter.plugins.imagepicker.image_picker-packaged_res-6 D:\PROJECTS\Flutter\limona\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release
+io.flutter.plugins.imagepicker.image_picker-pngs-7 D:\PROJECTS\Flutter\limona\build\image_picker\generated\res\pngs\release
+io.flutter.plugins.imagepicker.image_picker-resValues-8 D:\PROJECTS\Flutter\limona\build\image_picker\generated\res\resValues\release
+io.flutter.plugins.imagepicker.image_picker-rs-9 D:\PROJECTS\Flutter\limona\build\image_picker\generated\res\rs\release
+io.flutter.plugins.imagepicker.image_picker-mergeReleaseResources-10 D:\PROJECTS\Flutter\limona\build\image_picker\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.imagepicker.image_picker-mergeReleaseResources-11 D:\PROJECTS\Flutter\limona\build\image_picker\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.imagepicker.image_picker-merged_res-12 D:\PROJECTS\Flutter\limona\build\image_picker\intermediates\merged_res\release
